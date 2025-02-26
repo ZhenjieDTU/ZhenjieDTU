@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhenjieDTU
 - 👀 I’m interested in CCS (carbon capture and storage) and integration of thermodynamics knowledge into CO2 underground simulation.
-- 🌱 I’m currently learning Fortran, Python and C++ programming language 
-- 💞️ I’m looking to collaborate on CO2 underground simulation 
+- 🌱 I know how code using Fortran, Python and C++ programming language 
+- 💞️ I’m working on CO2 underground simulation 
 - 📫 How to reach me zhwa@kemi.dtu.dk
 
 
